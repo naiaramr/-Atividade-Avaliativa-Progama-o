@@ -1,4 +1,4 @@
-Atividade Avaliativa: Lógica de Programação com Python 🐍
+Atividade Avaliativa: Lógica de Programação com Python
 Este repositório contém a resolução da primeira atividade avaliativa desenvolvida para a disciplina do Professor Sérgio Monteiro. O projeto foca na aplicação prática de estruturas de dados, loops e condicionais para resolver problemas do cotidiano.
 
 Aluna: Naiara Mateus
